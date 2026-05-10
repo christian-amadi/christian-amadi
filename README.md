@@ -3,7 +3,7 @@
 🎓 MSc Computer Science (GPA: 4.1/5.0)  
 🔬 Machine Learning & Deep Learning Researcher  
 🌍 Nigeria  
-🎯 Seeking PhD Position in Machine Learning / AI  
+🎯 Research-oriented AI applicant(PhD) focused on explainable hybrid deep learning systems for forecasting and decision support under uncertainty.
 
 ---
 
