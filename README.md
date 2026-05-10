@@ -24,6 +24,7 @@
 - 🔹 CNN-Based Image Steganography
 - 🔹 Tomato Yield Prediction using Random Forest
 - 🔹 Hybrid Random Forest–Transformer Model (in progress)
+- 🔹 Climate-Resilient Crop Yield Forecasting Using an Explainable Hybrid Random Forest–Transformer Architecture
 
 ---
 
